@@ -1,2 +1,2 @@
-# AstroRIT
-for the website development of ASOR
+#Partcile-JS
+A work with particle-js
